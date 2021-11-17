@@ -4,7 +4,7 @@ This is simulation of Starship Rocket in AR. It is developed in unity using Vufo
 
 # Getting Started :
 * It can be install  directly with starship apk file
-* Or clone the repo and run main project file
+* Or clone the repo and run main project file in unity
 * open the base image in any device then place camera to base image. App will recognize image and straship rocket will apper.
 * Then you are ready for launch.
 # This is just a demo project.
